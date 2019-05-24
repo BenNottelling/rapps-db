@@ -1,0 +1,12 @@
+[Section]
+Name = Minecraft Launcher
+Version = 1.0.1.0
+License = Paid
+Description = A very popular block building / survival game that works in ReactOS. 
+Size = 1.45 MiB
+Category = 12
+URLSite = https://www.minecraft.net/en-us/
+URLDownload = https://launcher.mojang.com/download/Minecraft.exe
+SHA1 = A29F15B096DBE3DE5397BCCBE7964BA760371421
+CDPath = none
+SizeBytes = 1526144
